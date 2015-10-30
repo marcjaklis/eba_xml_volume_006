@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
  
  <!DOCTYPE TEI
 SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
@@ -17,9 +17,20 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
         </fileDesc>
     </teiHeader>
     <text>
-        <body> A JOURNAL ON THE BEDAWIN 1889 – 1912 The Diary kept on board the dahabiyeh of
-            THEODORE M. DAVIS during seventeen trips up the Nile by MRS. EMMA B. ANDREWS VOL. II
-            TYPEWRITTEN BY E. P. B. MCMXVIII Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
+        <body>
+		<pb n="000.1"/>
+         <p><title>A JOURNAL ON THE BEDAWIN</title>
+            <lb/>
+            <lb/>1889 - 1912 <lb/>
+            <lb/>The Diary kept on board the dahabiyeh of <lb/><persName ref="#Davis_Theodore"
+               >THEODORE M. DAVIS</persName>
+            <lb/>during seventeen trips up the Nile by <lb/><persName ref="#Andrews_Emma B.">MRS.
+               EMMA B. ANDREWS</persName>
+            <lb/>VOL. I</p>
+         <p>TYPEWRITTEN BY <persName ref="#E.P.B.">E.P.B.</persName>
+            <lb/>MCMXVIII</p>
+
+Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             month today that we sailed from New York, again on the Kaiser Wilhem II. The voyage was
             a slow and very tiresome one. The weather warm, grey and showery. We reached Gibraltar
             the evening of Monday the 21st about 8 o’clock – and lost that ever interesting sight of
@@ -40,7 +51,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             here, and which has filled Cairo with mosquitos. And right glad I was to escape
             Shepheards, and constant combats with mosquitos, and come to our own home on this
             beautiful Bedouin. She has never been in such perfect order – or so pretty and
-            comfortable – and peace and repose are again descending upon me. Bedrescheyn. Dec. 13.
+            comfortable – and peace and repose are again descending upon me. 
+			
+			Bedrescheyn. Dec. 13.
             Tuesday. Everyone went out to Saqqara this morning except Lellie Parsons and myself.
             About 4 o’clock it began to look rather threatening – and in a few moments the rain came
             in torrents. I never saw it rain more furiously for a little while. Great excitement on
@@ -49,16 +62,26 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             canvass. I was uncomfortable about our people – as I saw the Cook party from the Ramesis
             arriving in bedraggled condition. But they came home dry, having taken refuge under
             cover. It has rained at intervals since – is warm- the cloud scenery after the heavy
-            storm was wonderful. Our boat did not leak in the slightest degree. Wednesday, Dec. 14.
+            storm was wonderful. Our boat did not leak in the slightest degree. 
+			
+			Wednesday, Dec. 14.
             Beautiful weather, but no wind until about 4 o’clock, when we started and made a mile or
-            two. Thursday, Dec. 15. Did not move – lovely, serene weather – no wind. Thermometer
-            Page 3 at 2 o’clock in the shade stood at 65˚. Friday, Dec. 16. Our men tracked about
+            two. 
+			
+			Thursday, Dec. 15. Did not move – lovely, serene weather – no wind. Thermometer
+            Page 3 at 2 o’clock in the shade stood at 65˚. 
+			
+			Friday, Dec. 16. Our men tracked about
             half a mile, but Theodore thinks this such a waste of time and strength, that he does
             not often permit it. We are still in sight of Helouan – and the Saqqara pyramids.
-            Saturday, Dec. 17. We all took a walk into the town on the railroad this morning to post
+            
+			
+			Saturday, Dec. 17. We all took a walk into the town on the railroad this morning to post
             some letters. Our way was by the pleasant palm forest – along the canal, and the
             picturesque, but vilely smelling mud town. A charming country about – still no wind –
-            but rather promising signs in the sky this evening. Wasta. Dec. 18. Fourth Sunday in
+            but rather promising signs in the sky this evening. 
+			
+			Wasta. Dec. 18. Fourth Sunday in
             Advent. 36 miles. We at last got off this morning at 7 o’clock, in a good wind that held
             finely, and we had a glorious run, bringing up here at 4 o’clock. The Lul el Nil, came
             along an hour after – and tomorrow we will all go by rail to the Fayum – returning the
@@ -79,37 +102,55 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             of an unknown Englishman who has lived there for 10 years – and he says one can drive
             quite comfortably to the pyramids of Hawara and Illahun. Home by 5 o’clock tired and
             glad. Fine evening effects returning across the desert. The Meydum pyramid touched to
-            radiance by the setting sun, while all about was grey and dark. Tuesday, Dec. 20. Very
+            radiance by the setting sun, while all about was grey and dark. 
+			
+			Tuesday, Dec. 20. Very
             heavy fog this morning – and no wind until 11 o’clock – very shifting all day – with
             heavy clouds about late in the afternoon, and some lightning and a little rain. Made
             about 6 miles. I had one charming hour on deck just after lunch, while we were anchored
             in a Page 5 dead calm. Water like glass – the delicate colouring of that hour of the day
             – the utter stillness only emphasised by a boat descending the other side of the wide
-            river, with its boatmen crooning and singing. What heavenly repose! Wednesday, Dec. 21.
+            river, with its boatmen crooning and singing. What heavenly repose! 
+			
+			Wednesday, Dec. 21.
             A cool morning and but little wind until about 3 P.M. when with a west wind we sailed
-            until 4:30 and made near 6 miles, and then obliged to tie up to the bank. Thursday, Dec.
+            until 4:30 and made near 6 miles, and then obliged to tie up to the bank. 
+			
+			Thursday, Dec.
             22. 3 miles. A splendid cloudless day with light south west wind – we pulled to the
             anchor to opposite side of river, tracked a little way, and then pulled back and tracked
             – making 3 miles, we suppose we are about 15 miles south of Wasta. A radiant night!
-            Friday, Dec. 23. One mile. S.E. wind still holds – tracked a little – and beginning to
+            
+			
+			Friday, Dec. 23. One mile. S.E. wind still holds – tracked a little – and beginning to
             feel a little discouraged. The “Thames” with the Kidders from Boston, is lying ahead of
             us, too far for visiting. The “Eurydice” somewhere near her, on which are a Canadian
-            family (Smith) who crossed with us on the Kaiser Wilhem. Page 6 Saturday, Dec. 24. Still
+            family (Smith) who crossed with us on the Kaiser Wilhem. 
+			
+			Page 6 Saturday, Dec. 24. Still
             lying where we were last night with high south wind blowing. If it had not been so cold
             last night, I should have thought a khamseen coming for it has been thick and hazy all
             day – the sun a pale round orb disappearing early in an atmosphere laden with dust and
             sand. We have been trying to put the boat into festive Xmas attire with the very poor
             things we could find at a garden near here. The little salon now looks gay with bunches
             of rosemary in masses over sideboard and pictures, making a pleasant atmosphere – and
-            looking like hemlocks. Christmas. Dec. 25. Sunday. A brilliant, beautiful morning – and
+            looking like hemlocks. 
+			
+			Christmas. Dec. 25. Sunday. A brilliant, beautiful morning – and
             our breakfast table had a very festive air with its flowers, and its many presents. Mrs.
             Parsons and the girls came to dine – and we had a nice evening. The same S.W. gale has
-            continued to blow, and we have not moved. Monday, Dec. 26. 8 miles. West wind – between
+            continued to blow, and we have not moved. 
+			
+			Monday, Dec. 26. 8 miles. West wind – between
             tracking and sailing made 8 miles, and are now near Benisoef, tied up to an island. It
-            has rained slightly two or three times this afternoon. Tuesday. Dec. 27. 13 miles. A
+            has rained slightly two or three times this afternoon. 
+			
+			Tuesday. Dec. 27. 13 miles. A
             strong wind, dying down by 11 o’clock, enabled Page 7 us to make a start, and tracking,
             pulling to the anchor, and sailing brought us near Bibeh, where we are tied up – having
-            made about 13 miles. Cold. Wednesday, Dec. 28th. 34-35 miles. Started in light wind soon
+            made about 13 miles. Cold. 
+			
+			Wednesday, Dec. 28th. 34-35 miles. Started in light wind soon
             after 9 – then we tracked and at 11 a light wind brought us along until 7 o’clock, when
             we brought up a mile this side of Abu Girgeh – having made about 35 miles – still cold –
             the thermometer went last night down to 39˚. Thursday, Dec. 29. 31 miles. A dense fog
