@@ -31,7 +31,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <lb/>MCMXVIII</p>
 
 <pb n="001"/><div xml:id="EBA18981212" type="Entry"><p><title>Bedrescheyn – Egypt.</title></p> <p><title>Dec. 12, 1898.</title></p> <p>It is just one
-            month today that we sailed from <placeName ref= "New York">New York</placeName>, again on the <name type="boat" ref="Kaiser_Wilhem_II"></name>. The voyage was
+            month today that we sailed from <placeName ref= "New_York">New York</placeName>, again on the <name type="boat" ref="Kaiser_Wilhem_II"></name>. The voyage was
             a slow and very tiresome one. The weather warm, grey and showery. We reached <placeName ref= "Gibraltar">Gibraltar</placeName>
             the evening of <date>Monday the 21st</date> about 8 o’clock – and lost that ever interesting sight of
             the approach of the big rock. A fleet of seven English war vessels were in harbour, and
@@ -42,8 +42,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="#Andersen">Andersen</persName> and <persName ref="#Buttles_Mary">Mary Buttles</persName> waiting for us. A day and night at the Grand Hotel, and off on
             Saturday in the very comfortable <name type= "boat" ref="Regina_Margherita">"Regina Margherita"</name> for <placeName ref= "Alexandria">Alexandria</placeName> which we reached on
             Tuesday morning at 9 o’clock and <placeName ref= "Cairo">Cairo</placeName> in the evening. <persName ref= "Parsons_Lellie">Mrs. Edwin Parsons</persName>(Lellie
-            Swayne) with two nieces came out with us from <placeName ref= "New York">New York</placeName>, and has engaged the <persName ref= "dahabeah Sol el-Nil">dahabeah Sol
-            el-Nil</persName>, commonly known as the Hungarian dahabeah, and our faithful old <persName ref="#Salah_Mohammed">Salah</persName> and we all
+            Swayne) with two nieces came out with us from <placeName ref= "New_York">New York</placeName>, and has engaged the dahabeah<name type= "boat" ref="Sol el-Nil">Sol
+            el-Nil</name>, commonly known as the Hungarian dahabeah, and our faithful old <persName ref="#Salah_Mohammed">Salah</persName> and we all
             started together this morning, and will keep together. She is delighted with everything
             and so is <persName ref="#Whaling_Bessie">Bessie Whaling</persName> whom we brought for the winter. There is the usual crowd at
             <placeName ref="Cairo">Cairo</placeName>, thinner perhaps as we are nearly two weeks earlier than usual. <geogName ref="The_Nile">The Nile</geogName> is very
@@ -54,64 +54,64 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             comfortable – and peace and repose are again descending upon me.</p></div> 
 			
 			<div xml:id="EBA18981213" type="Entry"><title>Bedrescheyn. Dec. 13.
-            Tuesday.</title> Everyone went out to Saqqara this morning except <persName ref="#Parsons_Lellie">Lellie Parsons</persName> and myself.
+            Tuesday.</title> <p>Everyone went out to Saqqara this morning except <persName ref="#Parsons_Lellie">Lellie Parsons</persName> and myself.
             About 4 o’clock it began to look rather threatening – and in a few moments the rain came
             in torrents. I never saw it rain more furiously for a little while. Great excitement on
             the boat – all hands gathering the bread that was drying on deck into safe quarters. I
             had to take refuge below, while the deck was quickly dismantled and everything put under
-            canvass. I was uncomfortable about our people – as I saw the <persName ref="#Cook">Cook</persName> party from the Ramesis
+            canvass. I was uncomfortable about our people – as I saw the Cook party from the <name type="boat" ref="Ramesis">Ramesis</name>
             arriving in bedraggled condition. But they came home dry, having taken refuge under
             cover. It has rained at intervals since – is warm- the cloud scenery after the heavy
-            storm was wonderful. Our boat did not leak in the slightest degree.</div> 
+            storm was wonderful. Our boat did not leak in the slightest degree.</p></div> 
 			
 			<div xml:id="EBA18981214" type="Entry">
 			<title>Wednesday, Dec. 14.</title>
-            Beautiful weather, but no wind until about 4 o’clock, when we started and made a mile or
-            two. </div>
+            <p>Beautiful weather, but no wind until about 4 o’clock, when we started and made a mile or
+            two.</p></div>
 			
 			<div xml:id="EBA18981215" type="Entry">
-			<title>Thursday, Dec. 15.</title> Did not move – lovely, serene weather – no wind. Thermometer<pb n="003"/> at 2 o’clock in the shade stood at 65˚. 
-			</div>
+			<title>Thursday, Dec. 15.</title> <p>Did not move – lovely, serene weather – no wind. Thermometer<pb n="003"/> at 2 o’clock in the shade stood at 65˚. 
+			</p></div>
 			
 			<div xml:id="EBA18981216" type="Entry">
-			<title>Friday, Dec. 16.</title> Our men tracked about
+			<title>Friday, Dec. 16.</title> <p>Our men tracked about
             half a mile, but <persName ref="#Davis_Theodore">Theodore</persName> thinks this such a waste of time and strength, that he does
-            not often permit it. We are still in sight of Helouan – and the Saqqara pyramids.
+            not often permit it. We are still in sight of Helouan – and the Saqqara pyramids.</p>
             </div>
 			
 			<div xml:id="EBA18981217" type="Entry">
-			<title>Saturday, Dec. 17.</title> We all took a walk into the town on the railroad this morning to post
+			<title>Saturday, Dec. 17.</title><p>We all took a walk into the town on the railroad this morning to post
             some letters. Our way was by the pleasant palm forest – along the canal, and the
             picturesque, but vilely smelling mud town. A charming country about – still no wind –
-            but rather promising signs in the sky this evening.</div>			
+            but rather promising signs in the sky this evening.</p></div>			
 			
 			<div xml:id="EBA18981218" type="Entry">
-			<title>Wasta. Dec. 18.</title> <title>Fourth Sunday in
-            Advent.</title> 36 miles. We at last got off this morning at 7 o’clock, in a good wind that held
-            finely, and we had a glorious run, bringing up here at 4 o’clock. <name type= "boat" ref="The Lil el Nil">The Lul el Nil</name>, came
+			<title>Wasta. Dec. 18. Fourth Sunday in
+            Advent.</title> <title>36 miles.</title> <p>We at last got off this morning at 7 o’clock, in a good wind that held
+            finely, and we had a glorious run, bringing up here at 4 o’clock. <name type= "boat" ref="The_Lul_el_Nil">The Lul el Nil</name>, came
             along an hour after – and tomorrow we will all go by rail to the Fayum – returning the
             same day. This will not of course give us time to see much. But the Greek Inn at the
             Medina is impossible, and we could not see our way to doing the whole thing, much as we
             would like to see it, as we should be obliged to carry a camp outfit and spend three or
-            four days there. High wind tonight and we are rolling a good deal. <pb n="004"/>
+            four days there. High wind tonight and we are rolling a good deal. </p><pb n="004"/>
 			</div>
 			
 			<div xml:id="EBA18981219" type="Entry">
 			<title>Monday, Dec.
-            19.</title> Started for El Medina, Fayum by rail at 10:30, Parson included – and folted in
-            fairly comfortable fashion across the desert to Medina which we reached at 12 o’clock –
+            19.</title> <p> Started for <placeName ref="El_Medina">El Medina</name>, <placeName ref="Fayum">Fayum</name> by rail at 10:30, Parson included – and folted in
+            fairly comfortable fashion across the desert to <placeNAme ref="Medina">Medina</name> which we reached at 12 o’clock –
             and had an excellent luncheon at the Hotel du Fayoum – where one could be very
             comfortable for a few days and see the district thoroughly. Then we had 3 carriages! and
             drove about through the town and environs. The town is quite European, is of much
             importance, 40,000 inhabitants – and the great canal, <geogName ref="The Bahr Jusuf Canal">the Bahr Jusuf</grogName> which leaves the
-            Nile near Assiut and flows to the Fayoum gives extraordinary fertility to this district.
+            Nile near <placeName ref="Assuit">Assiut</name> and flows to the <placeName ref="Fayum">Fayoum</name> gives extraordinary fertility to this district.
             Its many branches flowing through the town, and the numerous bridges we crossed gave
-            many novel features – making a kind of Egyptian Venice or Amsterdam. Very good streets,
+            many novel features – making a kind of Egyptian <placeName ref="Venice">Venice</name> or <placeName ref="Amsterdam">Amsterdam</name>. Very good streets,
             with handsome buildings, and gardens – most interesting. <persName ref="#Davis_Theodore">Theodore</persName> made the acquaintance
             of an unknown Englishman who has lived there for 10 years – and he says one can drive
             quite comfortably to the pyramids of Hawara and Illahun. Home by 5 o’clock tired and
             glad. Fine evening effects returning across the desert. The Meydum pyramid touched to
-            radiance by the setting sun, while all about was grey and dark.</div> 
+            radiance by the setting sun, while all about was grey and dark.</p></div> 
 			
 			<div xml:id="EBA18981220" type="Entry">
 			<title>Tuesday, Dec. 20.</title> Very
