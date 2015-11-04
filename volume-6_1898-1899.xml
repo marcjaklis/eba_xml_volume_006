@@ -30,145 +30,179 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
          <p>TYPEWRITTEN BY <persName ref="#E.P.B.">E.P.B.</persName>
             <lb/>MCMXVIII</p>
 
-Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
-            month today that we sailed from New York, again on the Kaiser Wilhem II. The voyage was
-            a slow and very tiresome one. The weather warm, grey and showery. We reached Gibraltar
-            the evening of Monday the 21st about 8 o’clock – and lost that ever interesting sight of
+<pb n="001"/><div xml:id="EBA18981212" type="Entry"><p><title>Bedrescheyn – Egypt.</title></p> <p><title>Dec. 12, 1898.</title></p> <p>It is just one
+            month today that we sailed from <placeName ref= "New York">New York</placeName>, again on the <name type="boat" ref="Kaiser_Wilhem_II"></name>. The voyage was
+            a slow and very tiresome one. The weather warm, grey and showery. We reached <placeName ref= "Gibraltar">Gibraltar</placeName>
+            the evening of <date>Monday the 21st</date> about 8 o’clock – and lost that ever interesting sight of
             the approach of the big rock. A fleet of seven English war vessels were in harbour, and
             would have made a pretty spectacle by daylight. Got away at 10 o’clock, and reached
-            Naples too late on the evening of the 24th to land – although every one was packed and
+            Naples too late on the evening of the <date>24th</date> to land – although every one was packed and
             ready to get off. The disappointment was all the greater. We passed the usual night of
             din and turmoil, incident to coaling, and landed at 8 o’clock the next morning, finding
-            Andersen and Mary Buttles waiting for us. A day and night at the Grand Hotel, and off on
-            Saturday in the very comfortable “Regina Margherita” for Alexandria which we reached on
-            Tuesday morning at 9 o’clock and Cairo in the evening. Mrs. Edwin Parsons (Lellie
-            Swayne) with two nieces came out with us from New York, and has engaged the dahabeah Sol
-            el-Nil, commonly known as the Hungarian dahabeah, and our faithful old Salah and we all
+            <persName ref="#Andersen">Andersen</persName> and <persName ref="#Buttles_Mary">Mary Buttles</persName> waiting for us. A day and night at the Grand Hotel, and off on
+            Saturday in the very comfortable <name type= "boat" ref="Regina_Margherita">"Regina Margherita"</name> for <placeName ref= "Alexandria">Alexandria</placeName> which we reached on
+            Tuesday morning at 9 o’clock and <placeName ref= "Cairo">Cairo</placeName> in the evening. <persName ref= "Parsons_Lellie">Mrs. Edwin Parsons</persName>(Lellie
+            Swayne) with two nieces came out with us from <placeName ref= "New York">New York</placeName>, and has engaged the <persName ref= "dahabeah Sol el-Nil">dahabeah Sol
+            el-Nil</persName>, commonly known as the Hungarian dahabeah, and our faithful old <persName ref="#Salah_Mohammed">Salah</persName> and we all
             started together this morning, and will keep together. She is delighted with everything
-            and so is Bessie Whaling whom we brought for the winter. There is the usual crowd at
-            Cairo, thinner perhaps as we are nearly two weeks earlier than usual. The Nile is very
-            high this year – and we have just Page 2 escaped a week of rain which they have had
-            here, and which has filled Cairo with mosquitos. And right glad I was to escape
+            and so is <persName ref="#Whaling_Bessie">Bessie Whaling</persName> whom we brought for the winter. There is the usual crowd at
+            <placeName ref="Cairo">Cairo</placeName>, thinner perhaps as we are nearly two weeks earlier than usual. <geogName ref="The_Nile">The Nile</geogName> is very
+            high this year – and we have just <pb n="002"/> escaped a week of rain which they have had
+            here, and which has filled <placeName ref="Cairo">Cairo</placeName> with mosquitos. And right glad I was to escape
             Shepheards, and constant combats with mosquitos, and come to our own home on this
             beautiful Bedouin. She has never been in such perfect order – or so pretty and
-            comfortable – and peace and repose are again descending upon me. 
+            comfortable – and peace and repose are again descending upon me.</p></div> 
 			
-			Bedrescheyn. Dec. 13.
-            Tuesday. Everyone went out to Saqqara this morning except Lellie Parsons and myself.
+			<div xml:id="EBA18981213" type="Entry"><title>Bedrescheyn. Dec. 13.
+            Tuesday.</title> Everyone went out to Saqqara this morning except <persName ref="#Parsons_Lellie">Lellie Parsons</persName> and myself.
             About 4 o’clock it began to look rather threatening – and in a few moments the rain came
             in torrents. I never saw it rain more furiously for a little while. Great excitement on
             the boat – all hands gathering the bread that was drying on deck into safe quarters. I
             had to take refuge below, while the deck was quickly dismantled and everything put under
-            canvass. I was uncomfortable about our people – as I saw the Cook party from the Ramesis
+            canvass. I was uncomfortable about our people – as I saw the <persName ref="#Cook">Cook</persName> party from the Ramesis
             arriving in bedraggled condition. But they came home dry, having taken refuge under
             cover. It has rained at intervals since – is warm- the cloud scenery after the heavy
-            storm was wonderful. Our boat did not leak in the slightest degree. 
+            storm was wonderful. Our boat did not leak in the slightest degree.</div> 
 			
-			Wednesday, Dec. 14.
+			<div xml:id="EBA18981214" type="Entry">
+			<title>Wednesday, Dec. 14.</title>
             Beautiful weather, but no wind until about 4 o’clock, when we started and made a mile or
-            two. 
+            two. </div>
 			
-			Thursday, Dec. 15. Did not move – lovely, serene weather – no wind. Thermometer
-            Page 3 at 2 o’clock in the shade stood at 65˚. 
+			<div xml:id="EBA18981215" type="Entry">
+			<title>Thursday, Dec. 15.</title> Did not move – lovely, serene weather – no wind. Thermometer<pb n="003"/> at 2 o’clock in the shade stood at 65˚. 
+			</div>
 			
-			Friday, Dec. 16. Our men tracked about
-            half a mile, but Theodore thinks this such a waste of time and strength, that he does
+			<div xml:id="EBA18981216" type="Entry">
+			<title>Friday, Dec. 16.</title> Our men tracked about
+            half a mile, but <persName ref="#Davis_Theodore">Theodore</persName> thinks this such a waste of time and strength, that he does
             not often permit it. We are still in sight of Helouan – and the Saqqara pyramids.
-            
+            </div>
 			
-			Saturday, Dec. 17. We all took a walk into the town on the railroad this morning to post
+			<div xml:id="EBA18981217" type="Entry">
+			<title>Saturday, Dec. 17.</title> We all took a walk into the town on the railroad this morning to post
             some letters. Our way was by the pleasant palm forest – along the canal, and the
             picturesque, but vilely smelling mud town. A charming country about – still no wind –
-            but rather promising signs in the sky this evening. 
+            but rather promising signs in the sky this evening.</div>			
 			
-			Wasta. Dec. 18. Fourth Sunday in
-            Advent. 36 miles. We at last got off this morning at 7 o’clock, in a good wind that held
-            finely, and we had a glorious run, bringing up here at 4 o’clock. The Lul el Nil, came
+			<div xml:id="EBA18981218" type="Entry">
+			<title>Wasta. Dec. 18.</title> <title>Fourth Sunday in
+            Advent.</title> 36 miles. We at last got off this morning at 7 o’clock, in a good wind that held
+            finely, and we had a glorious run, bringing up here at 4 o’clock. <name type= "boat" ref="The Lil el Nil">The Lul el Nil</name>, came
             along an hour after – and tomorrow we will all go by rail to the Fayum – returning the
             same day. This will not of course give us time to see much. But the Greek Inn at the
             Medina is impossible, and we could not see our way to doing the whole thing, much as we
             would like to see it, as we should be obliged to carry a camp outfit and spend three or
-            four days there. High wind tonight and we are rolling a good deal. Page 4 Monday, Dec.
-            19. Started for El Medina, Fayum by rail at 10:30, Parson included – and folted in
+            four days there. High wind tonight and we are rolling a good deal. <pb n="004"/>
+			</div>
+			
+			<div xml:id="EBA18981219" type="Entry">
+			<title>Monday, Dec.
+            19.</title> Started for El Medina, Fayum by rail at 10:30, Parson included – and folted in
             fairly comfortable fashion across the desert to Medina which we reached at 12 o’clock –
             and had an excellent luncheon at the Hotel du Fayoum – where one could be very
             comfortable for a few days and see the district thoroughly. Then we had 3 carriages! and
             drove about through the town and environs. The town is quite European, is of much
-            importance, 40,000 inhabitants – and the great canal, the Bahr Jusuf which leaves the
+            importance, 40,000 inhabitants – and the great canal, <geogName ref="The Bahr Jusuf Canal">the Bahr Jusuf</grogName> which leaves the
             Nile near Assiut and flows to the Fayoum gives extraordinary fertility to this district.
             Its many branches flowing through the town, and the numerous bridges we crossed gave
             many novel features – making a kind of Egyptian Venice or Amsterdam. Very good streets,
-            with handsome buildings, and gardens – most interesting. Theodore made the acquaintance
+            with handsome buildings, and gardens – most interesting. <persName ref="#Davis_Theodore">Theodore</persName> made the acquaintance
             of an unknown Englishman who has lived there for 10 years – and he says one can drive
             quite comfortably to the pyramids of Hawara and Illahun. Home by 5 o’clock tired and
             glad. Fine evening effects returning across the desert. The Meydum pyramid touched to
-            radiance by the setting sun, while all about was grey and dark. 
+            radiance by the setting sun, while all about was grey and dark.</div> 
 			
-			Tuesday, Dec. 20. Very
+			<div xml:id="EBA18981220" type="Entry">
+			<title>Tuesday, Dec. 20.</title> Very
             heavy fog this morning – and no wind until 11 o’clock – very shifting all day – with
             heavy clouds about late in the afternoon, and some lightning and a little rain. Made
             about 6 miles. I had one charming hour on deck just after lunch, while we were anchored
-            in a Page 5 dead calm. Water like glass – the delicate colouring of that hour of the day
+            in a <pn n="005"/> dead calm. Water like glass – the delicate colouring of that hour of the day
             – the utter stillness only emphasised by a boat descending the other side of the wide
-            river, with its boatmen crooning and singing. What heavenly repose! 
+            river, with its boatmen crooning and singing. What heavenly repose! </div>
 			
-			Wednesday, Dec. 21.
+			<div xml:id="EBA18981221" type="Entry">
+			<title>Wednesday, Dec. 21.</title>
             A cool morning and but little wind until about 3 P.M. when with a west wind we sailed
-            until 4:30 and made near 6 miles, and then obliged to tie up to the bank. 
+            until 4:30 and made near 6 miles, and then obliged to tie up to the bank. </div>
 			
-			Thursday, Dec.
-            22. 3 miles. A splendid cloudless day with light south west wind – we pulled to the
+			<div xml:id="EBA1898122" type="Entry">
+			<title>Thursday, Dec.
+            22.</title> <title>3 miles.</title> A splendid cloudless day with light south west wind – we pulled to the
             anchor to opposite side of river, tracked a little way, and then pulled back and tracked
-            – making 3 miles, we suppose we are about 15 miles south of Wasta. A radiant night!
+            – making 3 miles, we suppose we are about 15 miles south of Wasta. A radiant night! </div>
+			
             
+			<div xml:id="EBA18981223" type="Entry">
+			<title>Friday, Dec. 23.</title> One mile. S.E. wind still holds – tracked a little – and beginning to
+            feel a little discouraged. The <name type="boat" ref="Thames">“Thames”</name> with <persName="Kidder_Mr_and_Mrs">the Kidders</perName> from Boston, is lying ahead of
+            us, too far for visiting. The <name type="boat" ref="Eurydice">“Eurydice”</name> somewhere near her, on which are a Canadian
+            family <persName="Smith">(Smith)</persName> who crossed with us on the <name type="boat" ref= Kaiser_Wilhelm">Kaiser Wilhem</name>. 
+			</div>
 			
-			Friday, Dec. 23. One mile. S.E. wind still holds – tracked a little – and beginning to
-            feel a little discouraged. The “Thames” with the Kidders from Boston, is lying ahead of
-            us, too far for visiting. The “Eurydice” somewhere near her, on which are a Canadian
-            family (Smith) who crossed with us on the Kaiser Wilhem. 
-			
-			Page 6 Saturday, Dec. 24. Still
+			<pb n="006"/>
+			<div xml:id="EBA18981224" type "Entry">
+			<title>Saturday, Dec. 24.</title> Still
             lying where we were last night with high south wind blowing. If it had not been so cold
             last night, I should have thought a khamseen coming for it has been thick and hazy all
             day – the sun a pale round orb disappearing early in an atmosphere laden with dust and
             sand. We have been trying to put the boat into festive Xmas attire with the very poor
             things we could find at a garden near here. The little salon now looks gay with bunches
             of rosemary in masses over sideboard and pictures, making a pleasant atmosphere – and
-            looking like hemlocks. 
+            looking like hemlocks.</div> 
 			
-			Christmas. Dec. 25. Sunday. A brilliant, beautiful morning – and
-            our breakfast table had a very festive air with its flowers, and its many presents. Mrs.
-            Parsons and the girls came to dine – and we had a nice evening. The same S.W. gale has
-            continued to blow, and we have not moved. 
+			<div xml:id="EBA18981225" type "Entry">
+			<title>Christmas. Dec. 25. Sunday.</title> A brilliant, beautiful morning – and
+            our breakfast table had a very festive air with its flowers, and its many presents. <persName ref="#Parsons_Mrs">Mrs.
+            Parsons</persname> and the girls came to dine – and we had a nice evening. The same S.W. gale has
+            continued to blow, and we have not moved.</div> 
 			
-			Monday, Dec. 26. 8 miles. West wind – between
+			<div xml:id="EBA18981226" type "Entry">
+			<title>Monday, Dec. 26.</title> <title>8 miles.</title> West wind – between
             tracking and sailing made 8 miles, and are now near Benisoef, tied up to an island. It
-            has rained slightly two or three times this afternoon. 
+            has rained slightly two or three times this afternoon.</div> 
 			
-			Tuesday. Dec. 27. 13 miles. A
-            strong wind, dying down by 11 o’clock, enabled Page 7 us to make a start, and tracking,
+			<div xml:id="EBA18981227" type "Entry">
+			<title>Tuesday. Dec. 27.</title> <title>13 miles.</title> A
+            strong wind, dying down by 11 o’clock, enabled <pb n="007"/> us to make a start, and tracking,
             pulling to the anchor, and sailing brought us near Bibeh, where we are tied up – having
-            made about 13 miles. Cold. 
+            made about 13 miles. Cold.</div> 
 			
-			Wednesday, Dec. 28th. 34-35 miles. Started in light wind soon
+			<div xml:id="EBA18981228" type "Entry">
+			<title>Wednesday, Dec. 28th.</title> <title>34-35 miles.</title> Started in light wind soon
             after 9 – then we tracked and at 11 a light wind brought us along until 7 o’clock, when
             we brought up a mile this side of Abu Girgeh – having made about 35 miles – still cold –
-            the thermometer went last night down to 39˚. Thursday, Dec. 29. 31 miles. A dense fog
+            the thermometer went last night down to 39˚.</div>
+			
+			<div xml: id="EBA18981229" type "Entry">
+			<title>Thursday, Dec. 29.</title> <title>31 miles.</title> A dense fog
             this morning and calm – wind rose at 11 and remained light and fitful all day. We
-            brought up at 7:30, 5 miles north of Minieh, having made 31 miles. Friday, Dec. 30. 5
-            miles. No wind until after 3 P.M. when a light one carried us down to Minieh – the Luli
+            brought up at 7:30, 5 miles north of Minieh, having made 31 miles. </div>
+			
+			<div xml: id="EBA18981230" type "Entry">
+			<title>Friday, Dec. 30.</title> <title>5
+            miles.</title> No wind until after 3 P.M. when a light one carried us down to Minieh – the Luli
             el-Nil, coming in half an hour after. Just too late to get the mail – for then we had to
             wait until 8 o’clock – many letters but happily no bad news. Heaps of papers bringing us
             news of the great gale at Newport and along the coast on the 27 Nov. also of the sudden
-            death by pneumonia of Mr. Calvin Brice. Page 8 Saturday, Dec. 31. Still at Minieh. Have
+            death by pneumonia of Mr. Calvin Brice.</div> Page 8 
+			
+			Saturday, Dec. 31. Still at Minieh. Have
             been dining with Lellie Parsons on the Luli el-Nil. Young Gouverneur Morris from New
             York, and a friend of his having come up to spend the night and dine with them. Just
             before coming away as we were such a party of Americans, we all stood up and sang, “My
-            Country ‘tis of Thee”. Monday, Jan. 2, 1899. 5 miles. Yesterday a dead calm – or wind in
-            the South – today the same, but between tracking and polling have made 5 miles. Tuesday,
+            Country ‘tis of Thee”. 
+			
+			Monday, Jan. 2, 1899. 5 miles. Yesterday a dead calm – or wind in
+            the South – today the same, but between tracking and polling have made 5 miles. 
+			
+			Tuesday,
             Jan. 3. 8-1/2 miles. Calm until early in the afternoon – when we began tracking and
             sailed a little bringing up at Beni Hassan, or a mile north of it about 5 o’clock,
-            making 8-1/2 miles. Saturday, Jan. 7. 7 miles. A strong, cold, south wind has been
+            making 8-1/2 miles. 
+			
+			Saturday, Jan. 7. 7 miles. A strong, cold, south wind has been
             blowing since Tuesday – sometimes amounting to a gale – so that sitting on deck, and
             even walking has been disagreeable – sand flying etc. We laid all the time just opposite
             the Beni Hassan hills, with the tombs plainly in sight – and the afternoon sun falling
@@ -176,7 +210,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             people from the other boat went over yesterday morning – Mary and I would not face the
             wind and sand. This morning we began tracking about 8 Page 9 o’clock and soon the wind
             shifting to the west, made it possible to sail, as there was a favorable bend in the
-            river – and we made 7 miles, and are near Rhoda. Thermometer last night 42˚. Sunday,
+            river – and we made 7 miles, and are near Rhoda. Thermometer last night 42˚. 
+			
+			Sunday,
             Jan. 8. 1st Sunday after Epiphany. We began tracking this morning at 7 o’clock – thus
             making a difficult turn, when we were able to sail, and kept on nearly until 10 o’clock,
             when the wind became so strong, we had to bring up near the town which lies almost on
@@ -185,7 +221,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             ancient town – for the wind was so strong and cold, and the dust and sand flying in such
             blinding fashion. Everything inside and out was covered with it. We got away this
             afternoon in a fine wind, which brought us to Hadji Kandil about 7 o’clock, making 17
-            miles. Mercury again at 42˚ last night. Monday, Jan 9. 28 miles. Tracking begun at 7
+            miles. Mercury again at 42˚ last night. 
+			
+			Monday, Jan 9. 28 miles. Tracking begun at 7
             o’clock this morning – it being calm and misty. By 10 o’clock the wind had risen, and we
             were bowling along in splendid fashion, until we approached the difficult Abu Fêda
             cliffs – where the great bends in the river make such difficult sailing when the wind
@@ -195,7 +233,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             were enthusiastic. We are now lying opposite Manfalût, where we hope to get some coal or
             charcoal, as our fuel is exhausted – and although there is a lot waiting for us at
             Assiut, and we are only 26 miles from there, yet in this uncertain sailing we may not be
-            able to get there tomorrow. The Lulu el-Nil lies just behind us. Tuesday, Jan. 10. 26
+            able to get there tomorrow. The Lulu el-Nil lies just behind us. 
+			
+			Tuesday, Jan. 10. 26
             miles. Started at 7 A.M. and with wind more or less light sailed until after dark –
             about 6 we struck the sand, and our men worked hard for an hour before we were off –
             fairly lifting the boat along. Then we were off, and reached Assiut at 7 o’clock P.M.
@@ -203,7 +243,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             a glory that the river everywhere reflected, with masses and great sweeps of light
             clouds – dying down through every range of colour – and leaving earth and sky in a deep
             blue and pink darkness! Very cold this morning – thermometer at 38˚ last night.
-            Wednesday, Jan. 11. Assiut. 22 miles. Still very cold this morning though mercury only
+            
+			
+			Wednesday, Jan. 11. Assiut. 22 miles. Still very cold this morning though mercury only
             at 42˚ - Mary, Bessie and I, taking Abdul, drove into the town as far as the Post
             Office, intending to keep on to the Page 11 bazaar. But meeting Jones and the Cook
             entering with all their purchases made, and the wind being favourable, and Theodore who
@@ -211,7 +253,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             we obediently turned back at the P.O. We had a travesty of a carriage, a most curiously
             compounded harness – and two poor, little, starved horses that made one’s heart ache.
             Came very near an upset – off at 11:30, and sailing and tracking we kept on until 9 this
-            morning, bringing up 7 miles south of Aboutig. Sohag. Thursday, Jan. 12. 45 miles. A
+            morning, bringing up 7 miles south of Aboutig. Sohag. 
+			
+			Thursday, Jan. 12. 45 miles. A
             very heavy fog this morning – tracked, and began sailing at 1 o’clock, and the wind
             holding we kept on until 8 o’clock – when we brought up at Sohag, under its high bank
             with its fine street and electric lamps. Soon after we pulled up heavy firing began just
@@ -227,7 +271,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             large stones, and many boats are always lying there. Brought up at Girgeh at 6:30. Cold.
             Salah not yet in sight. Girgeh has been for years shut off from boats by a huge sand
             island which the high Nile of this year has completely carried away – so that for the
-            first time we could approach the town. Saturday Jan. 14. 8 miles. Did not reach Balliana
+            first time we could approach the town. 
+			
+			Saturday Jan. 14. 8 miles. Did not reach Balliana
             until near one o’clock – as the wind was so light. Theodore, Mary and Bessie with Jones,
             3 of our men and the lunch started at once for Abydos. Mary in my chair, with 2 donkeys
             – she pronounces the new harness a success. They had a beautiful excursion – I with the
@@ -240,7 +286,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             green flag with characters from the Koran – and a lot of swarthy fellows in enormous
             white turbans, and spotless white gowns, sitting and lying about. Page 13 Salah not yet
             in sight – we hear they are at Sohag today. I am so sorry to lose them – but hope we may
-            soon get together again. Sunday – 2d after Epiphany. Jan. 15. 10 miles. Light wind and
+            soon get together again. 
+			
+			Sunday – 2d after Epiphany. Jan. 15. 10 miles. Light wind and
             tracking made 10 miles above Balliana weather warmer. Monday, Jan. 16. 28 miles. Could
             not start until near noon. When the wind came up we reached Nag Hamade at one o’clock –
             and waited for the bridge to open. The wind very strong and cool, and we were suffocated
@@ -249,7 +297,9 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             took the rope on shore and we worked through under a good deal of excitement as the wind
             carried us against the iron barge, and it was with some scratches and much effort that
             we got through. A tearing wind for an hour growing somewhat quieter brought us at 10:30
-            to Dishneh. Sunday, Jan. 17. 20-1/2 miles. Off at 7 o’clock, reaching Denderah at 9:30.
+            to Dishneh. 
+			
+			Sunday, Jan. 17. 20-1/2 miles. Off at 7 o’clock, reaching Denderah at 9:30.
             Wind high and much dust. The rest went to the temple. I wisely stayed at home – and took
             my exercise on the clean deck. They were back for one o’clock lunch, and we were off
             immediately, flying along in the highwind, when we found the chicken boat was full of
@@ -259,9 +309,12 @@ Bedrescheyn – Egypt. Dec. 12, 1898. It is just one
             goose with a cry of joy made for the water, and took a long and enthusiastic bath. After
             the boat had been cleaned, and fowls put back, we started again – but the river was so
             dangerous with its sudden turns and gusts of wind we stopped at 5 o’clock at Kuft.
-            Wednesday, Jan. 18. 28 miles. Started at 7:30 – light wind – tracking, polling, we came
+           
+		   Wednesday, Jan. 18. 28 miles. Started at 7:30 – light wind – tracking, polling, we came
             to within 4 or 5 miles of Luxor – but cannot make the last turn in the river, without
-            wind – so have stopped for the night. Thursday, Jan. 19. Luxor. 4 miles. We were until 2
+            wind – so have stopped for the night. 
+			
+			Thursday, Jan. 19. Luxor. 4 miles. We were until 2
             P.M. making the four miles here, found only one dahabeah here – having passed the
             Gazelle early this morning. We came to our usual mooring, our favorite place under the
             Castle – and soon our friends had found us out. Achmed with his donkey boys – our
