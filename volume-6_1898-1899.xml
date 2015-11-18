@@ -491,27 +491,31 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             refuge in the dining saloon <nb n="022"/> as it was so cold. The doctor of the Fort was on
             board, and was presented to us – and has invited us to see the fort tomorrow.</p></div>
 			
-			Friday,
-            Feb. 10. Abu Simbel. Immediately after breakfast we mounted donkeys and started for
-            Salah’s house, stopping en route at the Fort, two miles from Tewfikyia. It is very large
-            – indeed is Halfa – with its railway – machine shops – hospitals – prisons, officers’
+			<div xml: id="EBA18980210" type "Entry">
+			<p><title>Friday,
+            Feb. 10. <placeName ref="Abu_Simbel">Abu Simbel</placeName>.</title></p> Immediately after breakfast we mounted donkeys and started for
+            <persName ref="#Salah_Mohammed">Salah’s</persName> house, stopping en route at the Fort, two miles from Tewfikyia. It is very large
+            – indeed is <placeName ref="Halfa">Halfa</placeName> – with its railway – machine shops – hospitals – prisons, officers’
             quarters and barracks – we saw the hospital, and a company of conscripts just arrived –
             and dervishes working in chains. They were not permitted to show “Mamoud” whom we would
             like to have seen – saw an interesting collection of dervish arms etc. – at the doctor’s
             quarters – and a lovely little gazelle wandering about among the palms of the little
-            enclosure. A very dusty ride of 2 miles or more to Salah’s house – which we found
+            enclosure. A very dusty ride of 2 miles or more to <persName ref="#Salah_Mohammed">Salah’s</persName> house – which we found
             greatly improved since our last visit. We were shown into a large room well lighted with
             good windows – nice rugs on the floor, and divan – and tea waiting for us – with good
-            china etc. The old mother, supposed to be over 90, and quite blind, was led in by Salah
-            – and then he brought his pretty wife Tamai, with a clean and very pretty baby in her
+            china etc. The old mother, supposed to be over 90, and quite blind, was led in by <persName ref="#Salah_Mohammed">Salah</persName>
+            – and then he brought his pretty wife <persName ref="#Tamai">Tamai</persName>, with a clean and very pretty baby in her
             arms, who was frightened into tears at the sight of such fearsome white beings as we
-            were. Tamai has grown a trifle stouter since I saw her 7 years ago – was well, even
+            were. <persName ref="#Tamai">Tamai</persName> has grown a trifle stouter since I saw her 7 years ago – was well, even
             richly dressed. She evidently hated to have us look at her baby. Home by one o’clock,
-            and off immediately for Abu Simbel, reaching here at 4:30. We went to the temples at
-            once. “Thames” lying Page 23 here – and post boat stopped to allow her few passengers to
-            see the temples. An elderly man was pointed out to me as the Earl of Carlisle who had
-            been to Khartoum to see the grave of his son, Mr. Howard who met his death, after the
-            battle in the streets of Omdurmân. Saturday, Feb. 11. Got up at 6 to see the dawn on the
+            and off immediately for <placeName ref="#Abu Simbel">Abu Simbel</placeName>, reaching here at 4:30. We went to the temples at
+            once. <name typle="boat" ref="Thames">“Thames”</name> lying <pb n="023"/> here – and post boat stopped to allow her few passengers to
+            see the temples. An elderly man was pointed out to me as the <persName ref="Earl_of_Carlisle">Earl of Carlisle</persName> who had
+            been to Khartoum to see the grave of his son, <persName ref="Howard_Mr">Mr. Howard</persName> who met his death, after the
+            battle in the streets of <placeName ref="Omdurmân">Omdurmân</persName>.</p></div> 
+			
+			<div xml: id="EBA18980211" type "Entry">
+			Saturday, Feb. 11. Got up at 6 to see the dawn on the
             faces of the splendid colossi – went again to the great temple after breakfast – started
             at 10 o’clock – wind high and cold – stopped at Derr, about 2 o’clock – did not get off
             – a crowd of the noisiest natives I ever saw, besieged the boat and made a hideous din –
