@@ -515,129 +515,166 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             battle in the streets of <placeName ref="Omdurmân">Omdurmân</persName>.</p></div> 
 			
 			<div xml: id="EBA18980211" type "Entry">
-			Saturday, Feb. 11. Got up at 6 to see the dawn on the
+			<p><title>Saturday, Feb. 11.</title></p> <p>Got up at 6 to see the dawn on the
             faces of the splendid colossi – went again to the great temple after breakfast – started
-            at 10 o’clock – wind high and cold – stopped at Derr, about 2 o’clock – did not get off
+            at 10 o’clock – wind high and cold – stopped at <placeName ref="Derr">Derr</placeName>, about 2 o’clock – did not get off
             – a crowd of the noisiest natives I ever saw, besieged the boat and made a hideous din –
-            passed Korosko at 5:30 – and are still steaming down the river, and will not stop until
-            we reach Marakya. In getting away from Derr we broke one of the paddle blades, and had
-            to stop to repair it. Sunday evening – Feb. 12. It was a pleasant thought on waking this
+            passed <placeName ref="Korosko">Korosko</placeName> at 5:30 – and are still steaming down the river, and will not stop until
+            we reach <placeName ref="Marakya">Marakya</placeName>. In getting away from <placeName ref="Derr">Derr</placeName> we broke one of the paddle blades, and had
+            to stop to repair it.</p></div> 
+			
+			<div xml: id="EBA18980212" type "Entry">
+			<p><title>Sunday evening – Feb. 12.</title></p> <p>It was a pleasant thought on waking this
             morning to know that we would reach home this afternoon. We stopped for an hour at
-            Kalabshi I did not go to the temple, which I had seen before, and which is only
+            <placeName ref="Kalabshi">Kalabshi</placeName> I did not go to the temple, which I had seen before, and which is only
             interesting from its inscriptions which of course we could not read. The most typical
             and barbaric crowd about the boat, offering Dervish arms, dresses etc. for sale. Many of
             these people had served as officers servants during the late campaign, and of course had
             possessed themselves of many trophies – which they held at enormous prices. I saw one
-            naked black boy, clothed in a Seaforth Highlander waistcoat! and another Page 24 black
+            naked black boy, clothed in a Seaforth Highlander waistcoat! and another <pb n="024"/> black
             fellow with enormous white turban, and bristling with arms, smoking a pipe! After we got
-            away from Kalabshi, had a nice little service, our pleasant little vicar (Brockenbury)
-            officiating – passed Somers-Clarke boat at Dabbôd – reached Shellal at 2 o’clock, and
-            found it entirely en fête, the Duke and Duchess of Connaught having arrived en route for
-            Khartoum. Flags, pennants, everywhere, and the royal standard floating over the little
+            away from <placeName ref="Kalabshi">Kalabshi</placeName>, had a nice little service, our pleasant little <persName ref="Brockenbury_Vicar">vicar (Brockenbury)</persName>
+            officiating – passed <persName ref="Somers-Clarke_Mr">Somers-Clarke</persName> boat at <placeName ref="Dabbôd">Dabbôd</placeName> – reached <placeName ref="Shellal">Shellal</placeName> at 2 o’clock, and
+            found it entirely en fête, <persName ref="Connaught_Duke_Duchess">the Duke and Duchess of Connaught</persName> having arrived en route for
+            <placeName ref="Khartoum">Khartoum</placeName>. Flags, pennants, everywhere, and the royal standard floating over the little
             steamer on which they were. We were soon in one of the Cataract boats, making the
             descent, and at 5 o’clock were once more on this blessed Beduin – a band of happy
-            pilgrims, home from their wanderings. Theodore and Bess crossed the river to Asswan,
-            stopping at the Istar on their way home, reporting Mr. Sayce better. Monday, Feb. 13.
-            Such a pleasant quiet day at home. Mr. Sayce came to tea and afterwards to dinner –
-            looking rather better. Mr. Somers-Clarke came for a call this morning, and Mrs. Parson
+            pilgrims, home from their wanderings. <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Whaling_Bessie">Bess</persName> crossed the river to <placeName ref="Asswan">Asswan</placeName>,
+            stopping at the <name type="boat" ref="Istar">Istar</name> on their way home, reporting <persName ref="#Sayce_Archibald">Mr. Sayce</persName> better.</p></div>
+			
+			<div xml: id="EBA18980213" type "Entry">
+			<p><title>Monday, Feb. 13.</title></p>
+            <p>Such a pleasant quiet day at home. <persName ref="#Sayce_Archibald">Mr. Sayce</persName> came to tea and afterwards to dinner –
+            looking rather better. <persName ref="#Somers-Clarke_Mr">Mr. Somers-Clarke</persName> came for a call this morning, and <persName ref="#Parsons_Lellie">Mrs. Parson</persName>
             and the girls, the vicar and his friend came down in a cataract boat, and made us a
             farewell visit – as they went off on the Post boat at noon – expecting to pick up their
-            dahabeah between this and Esneh. The Craiks, the vicar and Mr. Brotherton came to tea
-            also, and everybody stayed later than everybody else. Mr. Somers-Clarke left his boat at
-            Philae, and rode over – not expecting to come down for a few days. He says he found the
+            dahabeah between this and <placeName ref="Esneh">Esneh</placeName>. <persName ref="#Craiks">The Craiks</persName>, the vicar and <persName ref="#Brotherton_Mr">Mr. Brotherton</persName> came to tea
+            also, and everybody stayed later than everybody else. <persName ref="#Somers-Clarke_Mr">Mr. Somers-Clarke</persName> left his boat at
+            <placeName ref="Philae">Philae</placeName>, and rode over – not expecting to come down for a few days. He says he found the
             upper Nile enchanting in a dahabeah. He stopped at 60 places – and has made plans and
-            drawings of 20. Happy occupation! We are trying to persuade Theodore to wait until
-            Saturday, and start down in the company of the Page 25 Istar and Althar – but in vain. I
+            drawings of 20. Happy occupation! We are trying to persuade <persName ref="#Davis_Theodore">Theodore</persName> to wait until
+            Saturday, and start down in the company of the <pb n="025"/> <name type="boat" ref="Istar">Istar</name> and <name type="boat" ref="Althar">Althar</name> – but in vain. I
             am always struggling to get amongst these Egyptologists for the interesting things they
-            can give – but it is generally in vain. Tuesday, Feb. 14. We are ready to start
-            tomorrow, having found Theodore obstinate – Mary and I went to tea this afternoon on the
-            Istar, and then took a last, little row in the charming river among the rocks. Met on
-            the Istar, Mr. Buxton of dahabeah Nephthys – and Lord and Lady Bellhaven staying at the
-            hotel – Mr. Sayce came to dinner. Wednesday, Feb. 15. Started this morning at 9 and have
-            made 15 miles. Thursday, Feb. 16. Got off at 6 o’clock and have made about 13 miles –
-            strong north wind – passed the Chonsu, which lay just behind us at Elephantine at Kom
+            can give – but it is generally in vain.</p></div> 
+			
+			<div xml: id="EBA18980214" type "Entry">
+			<p><title>Tuesday, Feb. 14.</title></p> <p>We are ready to start
+            tomorrow, having found <persName ref="#Davis_Theodore">Theodore</persName> obstinate – <persName ref="Buttles_Mary">Mary</persName> and I went to tea this afternoon on the
+            <name type="boat" ref="Istar">Istar</name>, and then took a last, little row in the charming river among the rocks. Met on
+            the <name type="boat" ref="Istar">Istar</name>, Mr. Buxton of dahabeah <name type="boat" ref="Nephthys">Nephthys</name> – and <persName ref="#Bellhaven_Lord_Lady">Lord and Lady Bellhaven</persName> staying at the
+            hotel – <persName ref="#Sayce_Archibald">Mr. Sayce</persName> came to dinner.</p></div> 
+			
+			<div xml: id="EBA18980215" type "Entry">
+			<p><title>Wednesday, Feb. 15.</title></p> <p>Started this morning at 9 and have
+            made 15 miles.</p></div>
+			
+			<div xml: id="EBA18980216" type "Entry">
+			<p><title>Thursday, Feb. 16.</title></p> <p>Got off at 6 o’clock and have made about 13 miles –
+            strong north wind – passed the <name type="boat" ref="Chonsu">Chonsu</name>, which lay just behind us at Elephantine at Kom
             Ombo. Though small, she is a heavy, wooden boat, and outfloats us entirely. We have
             pulled up to a low sand bank in the river, and lying quite out in the water – without a
             visible human being near us. I would always like to lie in such a spot – it is an ideal
             place to stop at – the river itself so wide here, and the desert on each side wider
-            still. We are about two miles from Silsilis – I stayed on deck until 10 minutes of
+            still. We are about two miles from <placeName ref="Silsilis">Silsilis</placeName> – I stayed on deck until 10 minutes of
             dinner time, and went up again after dinner. The moon is still in her first quarter –
-            and the stars so radiant – such beautiful Page 26 loneliness – one could almost touch
-            it, and feel the Divine Creative force and meaning. Friday, Feb. 17. 6 miles. Off at 7
-            o’clock – north wind increasing – we however passed Silsilis soon after breakfast, and
+            and the stars so radiant – such beautiful <pb n="026"/> loneliness – one could almost touch
+            it, and feel the Divine Creative force and meaning.</p></div>
+			
+			<div xml: id="EBA18980217" type "Entry">
+			<p><title>Friday, Feb. 17. 6 miles.</title></p> <p>Off at 7
+            o’clock – north wind increasing – we however passed <placeName ref="Silsilis">Silsilis</placeName> soon after breakfast, and
             are lying tonight only about 4 miles below – having fought our way along for even this
             distance. Very warm and heavy clouds collected, and about 2 o’clock, a sand storm broke
             upon us, and for an hour or more the heat was great, 78 on my balcony. A beautiful
-            rainbow afterwards – and tonight is serenely lovely and cooler. Saturday, Feb. 18. 28
-            miles. Got off at 7 P.M. – calm – reached Edfou at one o’clock, and stopped for certain
+            rainbow afterwards – and tonight is serenely lovely and cooler.</p></div>
+			
+			<div xml: id="EBA18980218" type "Entry">
+			<p><title>Saturday, Feb. 18. 28
+            miles.</title></p> <p>Got off at 7 P.M. – calm – reached <placeName ref="Edfou">Edfou</placeName> at one o’clock, and stopped for certain
             things such as yeast, butter and such – then the wind began to blow, and drifting and
-            rowing we tied up 6 miles below Edfou. Passed this morning dahabeah Cleopatra with tug
-            going up – and this P.M. also going up, the Juliette, Manhattan, Gamilla and one other.
-            Warm - 76˚. 1st Sunday in Lent. Feb. 19. 23 miles. Starting at our usual time this
-            morning, 7 o’clock – we reached El Kab at 9 o’clock – and went out to the tombs – I
+            rowing we tied up 6 miles below <placeName ref="Edfou">Edfou</placeName>. Passed this morning dahabeah <name ref="boat" ref="Cleopatra">Cleopatra</name> with tug
+            going up – and this P.M. also going up, <name type="boat" ref="the_Juliette">the Juliette</name>, <name type="boat" ref="Manhattan">Manhattan</name>, <name type="boat" ref="Gamilla">Gamilla</name> and one other.
+            Warm - 76˚.</p></div>
+			
+			<div xml: id="EBA18980219" type "Entry">
+			<p><title>1st Sunday in Lent. Feb. 19. 23 miles.</title></p> <p>Starting at our usual time this
+            morning, 7 o’clock – we reached <placeName ref="El Kab">El Kab</placeName> at 9 o’clock – and went out to the tombs – I
             riding a wretched little donkey, the others walking. It was just 6 years ago that we did
-            the same thing – and made Page 27 a visit to Mr. Tyler, and Mr. Somers-Clarke who were
+            the same thing – and made <pb n="027"/> a visit to <persName ref="#Tyler_Mr">Mr. Tyler</persName>, and <persName ref="Somers-Clarke_Mr">Mr. Somers-Clarke</persName> who were
             then excavating there. We were warmly welcomed by my old woman, and the three dogs who
-            live at Mr. Somers-Clarke’s house – and I fancy all four will sleep more comfortably
-            tonight, from the good feeding they got. We are now at Esneh – a beautiful day – and
+            live at <persName ref="#Somers-Clarke_Mr">Mr. Somers-Clarke’s</persName> house – and I fancy all four will sleep more comfortably
+            tonight, from the good feeding they got. We are now at <placeName ref="Esneh">Esneh</placeName> – a beautiful day – and
             inspiring air – and a radiant night – wind a little cool. Passed a large dahabeah going
-            up – and one of the Khedivial steamers going up for the Duke and Duchess of Connaught.
-            Monday, Feb. 20. Luxor. 34-1/2 miles. We reached here at 3 o’clock this afternoon – very
+            up – and one of the Khedivial steamers going up for <persName ref="#Connaught_Duke_Duchess">the Duke and Duchess of Connaught</persName>.</p></div>
+            
+			<div xml: id="EBA18980220" type "Entry">
+			<p><title>Monday, Feb. 20. Luxor. 34-1/2 miles.</title></p> <p>We reached here at 3 o’clock this afternoon – very
             warm indeed. Came again to our old place under the Castle. Found only two dahabeahs here
-            – and I never saw Luxor so quiet. Tuesday, Feb. 21. Very high wind all day – Theodore
-            and Bessie went to Der el Medineh. Wednesday, Feb. 22. Cool weather with strong wind
-            from the north. Rode into Luxor and Mr. Huhatt came to play chess with Theodore, and
-            stayed to lunch. Mary and Bessie spent the day at Deir el Bahri. Page 28 Luxor,
-            Thursday. March 2. We must start down the river tomorrow – though we hate the necessity.
+            – and I never saw <placeName ref="Luxor">Luxor</placeName> so quiet.</p></div>
+			
+			<div xml: id="EBA18980221" type "Entry">
+			<p><title>Tuesday, Feb. 21.</title></p> <p>Very high wind all day – <persName ref="#Davis_Theodore">Theodore</persName>
+            and <presName ref="Whaling_Bessie">Bessie</persName> went to Der el Medineh.</p></div>
+
+			<div xml: id="EBA18980222" type "Entry">
+			<p><title>Wednesday, Feb. 22.</title></p> <p>Cool weather with strong wind
+            from the north. Rode into <placeName ref="Luxor">Luxor</placeName> and <persName ref="#Huhat_Mr">Mr. Huhatt</persName> came to play chess with <persName ref="#Davis_Theodore">Theodore</persName>, and
+            stayed to lunch. <persName ref="Buttles_Mary">Mary</persName> and <persName ref="#Whaling_Bessie">Bessie</persName> spent the day at Deir el Bahri.<pb n="028"/></p></div>
+
+			<div xml: id="EBA18980302" type "Entry">
+			<p><title>Luxor,
+            Thursday. March 2.</title></p> <p>We must start down the river tomorrow – though we hate the necessity.
             It is so pleasant here – so many interesting things to do, and people to see. We have
-            had 9 days here. Theodore has had Mr. Huhatt almost every day to lunch – and to play
+            had 9 days here. <persName ref="#Davis_Theodore">Theodore</persName> has had <persName ref="#Huhat_Mr">Mr. Huhatt</persName> almost every day to lunch – and to play
             chess – I have crossed the river 3 times and had that charming ride, on my best of
-            little donkeys, Yankee Doodle Plymouth Rock! First, Theodore, Bessie and I went to
-            Gurnah, to call on Mr. Newberry whom we found at home. Earl Spencer and his wife were
+            little donkeys, Yankee Doodle Plymouth Rock! First, <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="#Whaling_Bessie">Bessie</persName> and I went to
+            <placeName ref="Gurnah">Gurnah</placeName>, to call on <persName ref="#Newberry">Mr. Newberry</persName> whom we found at home. <persName ref="#Spencers_The">Earl Spencer and his wife</persName> were
             making him a visit and after they went away we looked at many of the beautiful things
-            belonging to Mr. Newberry. All the things found in their excavations were packed and
-            most of them on their way to the Museum. We had tea, and then he and Prof. Spiegelberg
+            belonging to <persName ref="#Newberry">Mr. Newberry</persName>. All the things found in their excavations were packed and
+            most of them on their way to the Museum. We had tea, and then he and <persName ref="#Spiegelberg_Professor">Prof. Spiegelberg</persName>
             who has been working with him all the winter showed us one of the tombs they had opened,
             called the Gardeners Tomb, with very beautiful decorations in painting – the colours
             bright as new. The tomb was just below the house of the Sheik which they have been
-            living in all winter. Mr. Newberry asked us to go with him to some of the private tombs,
-            I had never seen – and the following Sunday morning Theodore, Bessie and I went over
+            living in all winter. <persName ref="#Newberry">Mr. Newberry</persName> asked us to go with him to some of the private tombs,
+            I had never seen – and the following Sunday morning <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="#Whaling_Bessie">Bessie</persName> and I went over
             after breakfast – charming morning. The ride along the high canal embankment is now
             rather disagreeable, as hundreds of workmen are busy digging out the silt, left from
             last years inundation. In this way this great embankment grows higher and wider every
             year. The sun proved very hot while we were clambering over and down the rough desert of
             that ancient necropolis, with its yawning pits. We went first to one that had been
-            delicately beautiful in its low relief. Page 29 It is now inhabited by fellaheen, and
+            delicately beautiful in its low relief. <pb n="029"/>  It is now inhabited by fellaheen, and
             the sculptures are almost entirely buried in debris. Then to the tomb of Nekht – then to
             one of Rekh-ma-ra, who was Governor of Thebes, and died in the reign of Amenhotep II.
-            This tomb with its elaborate sculptures and paintings, Mr. Newberry is doing for
-            publication, and we must have it when it comes out. It was delightful to have Mr.
-            Newberry show it to us, which he did con amore – with every explanation. It was after 12
+            This tomb with its elaborate sculptures and paintings, <persName ref="#Newberry">Mr. Newberry</persName> is doing for
+            publication, and we must have it when it comes out. It was delightful to have <persName ref="#Newberry">Mr.
+            Newberry</persName> show it to us, which he did con amore – with every explanation. It was after 12
             when we said goodbye to him, he having promised to come to dinner with us the next
             night. We found him more interesting than we thought – knows everybody and everything –
             began life as a scientific botanist under Sir Joseph Hooker – and we fraternised at once
-            over our mutual tastes in gardening and architecture. Then we met Mr. Howard Carter –
+            over our mutual tastes in gardening and architecture. Then we met <persName ref="#Carter_Howard">Mr. Howard Carter</persName> –
             who has been doing such beautiful work at Der el Bahri, for so long. He also came to
             dine, and we went over and had tea with him the afternoon before we came away – and I
             chose the subjects of two sketches he is to make for me – Queen Aahmes – and Queen
-            Sensenet, Mother of Thothmes I. The Buxtons, who are on the Nepthys, and whom we met at
-            Aswân, taking tea with us one afternoon, told us that Mrs. Buxton’s (Gurney)
-            grandfather’s gamekeeper, was this young Carter’s father, and that he had great talent
+            Sensenet, Mother of Thothmes I. <persName ref="#Buxtons_The">The Buxtons</persName>, who are on the Nepthys, and whom we met at
+            Aswân, taking tea with us one afternoon, told us that <persName ref="#Buxtons_The">Mrs. Buxton’s</persName> (Gurney)
+            grandfather’s gamekeeper, was this young <persName ref="#Carter_Howard">Carter’s</persName> father, and that he had great talent
             (the father) in drawing animals. An interesting history – we came very near stumbling
-            upon the Duke and Duchess of Connaught one afternoon as we went to pay a visit to the
-            Buxtons. They asked us to come again a little later, as the Duke had sent word that they
-            were coming to have tea with them – so we refrained from entering the boat. The Nephtys,
-            Thames and Istar all came down the same day. Poor Mr. Sayce is again in great suffering
-            Page 30 and under the surgical care of the doctor here. Theodore and I went to see him
+            upon the <persName ref="#Connaught_Duke_Duchess">Duke and Duchess of Connaught</persName> one afternoon as we went to pay a visit to <persName ref="#Buxtons_the">the
+            Buxtons</persName>. They asked us to come again a little later, as the <persName ref="#Connaught_Duke_Duchess">Duke</persName> had sent word that they
+            were coming to have tea with them – so we refrained from entering the boat. <name type="boat" ref="The_Nephtys">The Nephtys</name>,
+            <name type="boat" ref="Thames">Thames</name> and <name type="boat" ref="Istar">Istar</name> all came down the same day. Poor <persName ref="#Sayce_Archibald">Mr. Sayce</persName> is again in great suffering
+            <pb n="030"/> and under the surgical care of the doctor here. <persName ref="#Davis_Theodore">Theodore</persName> and I went to see him
             yesterday – he was in bed – but called to me to come and speak to him. It really seems
-            very serious. We have made the acquaintance of Mr. Chauncey Murch, the head of the
-            American Mission here at Luxor. He has been 15 years in Egypt – and is a native of Ohio
-            – of Reynoldsburg, nor far from Columbus, where I used sometimes to drive as a child
-            with my father. Mr. Murch is really huge – a nice little wife. He has the most rare and
+            very serious. We have made the acquaintance of <persName ref="#Murch_Chauncey">Mr. Chauncey Murch</persName>, the head of the
+            American Mission here at Luxor. He has been 15 years in <placeName ref="Egypt">Egypt</placeName> – and is a native of Ohio
+            – of <placeName ref="Reynoldsburg">Reynoldsburg</placeName>, nor far from <placeName ref="Columbus">Columbus</placeName>, where I used sometimes to drive as a child
+            with my father. <persName ref="#Murch_Chauncey">Mr. Murch</persName> is really huge – a nice little wife. He has the most rare and
             beautiful collection of scarabs I have ever seen – and of small objects. Our old friend
-            Mohammed Mohassib has had some very interesting things. Among others some pre-historic
-            mummies – brought from Nagada. One of which Theodore bought, and is going to present it
-            to the Metropolitan Museum of New York. Friday, March 3d. Theodore and I went to see Mr.
+            <persName ref="#Mohassib_Mohammed">Mohammed Mohassib</persName> has had some very interesting things. Among others some pre-historic
+            mummies – brought from Nagada. One of which <persName ref="#Davis_Theodore">Theodore</persName> bought, and is going to present it
+            to the Metropolitan Museum of New York.</p></div>
+			
+			Friday, March 3d. Theodore and I went to see Mr.
             Sayce this morning – but I did not see him. He reported himself going on as well as
             could be hoped – we got away about noon, in a light north wind, passed the Nepthys lying
             at Karnac. Have made about 17-1/2 miles and are now some 5 miles south of Nagada.
